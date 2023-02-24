@@ -1,0 +1,29 @@
+body{
+    font-family: sans-serif;
+    background-color: coral;
+}
+.contenedor{
+background-color: brown;
+height: auto;
+
+
+display: flex;
+justify-content: center;
+}
+.desarrollo{
+    background-color:  coral;
+    height: 10vh;
+    margin: auto;
+
+    display: flex;
+    justify-content: center;
+
+}
+.video{
+    display: flex;
+    justify-content: center;
+}
+.stilo{
+    display: flex;
+    justify-content: center;
+}
